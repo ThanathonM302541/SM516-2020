@@ -1,2 +1,2 @@
-# SM516-2020
+# SM516 Advanced Programming
 UTCC-MFE
